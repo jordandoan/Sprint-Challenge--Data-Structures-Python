@@ -27,6 +27,9 @@ duplicates = []
 #         if name_1 == name_2:
 #             duplicates.append(name_1)
 
+"""
+STRETCH GOAL
+"""
 names_1.sort()
 names_2.sort()
 n1 = 0
